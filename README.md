@@ -94,7 +94,7 @@
 <body>
 
 
-    <h1>Aslm Azri ❤️</h1>
+    <h1>Azri❤️</h1>
 
     <!-- 4 GAMBAR -->
     <div class="gallery">
@@ -110,6 +110,8 @@
 
     <!-- LOVE LETTER -->
     <div class="letter">
+Aslm Azri,
+	
 Ini ada hadiah ringkas daripada aku untuk kau. Hehehe... <i>simple</i> je aku buat ni, tak adalah sehebat mana kalau nak dibandingkan dengan bunga yang kau bagi sebelum ni. <i>Sorry</i> tau kalau ia nampak biasa-biasa je, tapi yang luar biasa tu ada dalam surat cinta ni. HAHAHAHHA!
 
 <b>Buat Azri Sayang,</b>
