@@ -105,6 +105,10 @@
         <img src="gambar11.jpeg">
     </div>
 
+    <audio controls autoplay>
+	  <source src="lagu.mp3" type="audio/mpeg">
+	</audio>
+
     <!-- LOVE LETTER -->
     <div class="letter">
 Ini ada hadiah ringkas daripada aku untuk kau. Hehehe... <i>simple</i> je aku buat ni, tak adalah sehebat mana kalau nak dibandingkan dengan bunga yang kau bagi sebelum ni. <i>Sorry</i> tau kalau ia nampak biasa-biasa je, tapi yang luar biasa tu ada dalam surat cinta ni. HAHAHAHHA!
